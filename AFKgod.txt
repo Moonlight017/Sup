@@ -1,0 +1,5 @@
+{
+	"ip":"Moonlight01177.aternos.me",
+	"port": "37940",
+	"name": "afkbot"
+}
